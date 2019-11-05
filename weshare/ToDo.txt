@@ -1,0 +1,16 @@
+ToDo
+=======
+1. Basic client validation for allowed characters
+   1. Login: Username, password
+   2. Postmessage
+2. Server validation of messsage? - DONE using REST Validation
+   Validator - DONE
+   https://www.mkyong.com/spring-boot/spring-rest-validation-example/
+3. Pagination for "My messages", "Other Messages" - DONE
+4. Exception Handling - DONE
+5. Securing end points
+6. Session Management
+   https://www.javainuse.com/spring/springboot_session
+7. JWT Authentication and Authorization
+   https://dzone.com/articles/implementing-jwt-authentication-on-spring-boot-api
+8. Login as AJAX Request instead of Posting the page - DONE

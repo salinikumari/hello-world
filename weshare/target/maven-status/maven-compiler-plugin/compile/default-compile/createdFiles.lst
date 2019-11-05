@@ -1,0 +1,13 @@
+com\weshare\WeShareApplication.class
+com\weshare\dto\MessageDto.class
+com\weshare\dto\ErrorDto.class
+com\weshare\controller\WeShareController.class
+com\weshare\entity\User.class
+com\weshare\exception\UserNotFoundException.class
+com\weshare\service\UserService.class
+com\weshare\exception\GlobalExceptionHandler.class
+com\weshare\repository\UserRepository.class
+com\weshare\repository\MessageRepository.class
+com\weshare\entity\Message.class
+com\weshare\dto\UserDto.class
+com\weshare\service\MessageService.class
